@@ -367,11 +367,15 @@ footer {
             Contact me to discuss your idea.
         </p>
 
-        <!-- Replace this email with a safe contact address -->
         <a class="button"
-           href="mailto:YOUR_EMAIL@example.com">
-           📧 Contact Me
-        </a>
+   href="https://wa.me/09116962879">
+   📱 Chat on WhatsApp
+</a>
+
+<a class="button secondary"
+   href="mailto: tobiojehumen@gmail.com">
+   📧 Send Me an Email
+</a>
 
         <p style="font-size:12px;">
             Use a parent/guardian-approved contact method.
